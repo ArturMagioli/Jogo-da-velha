@@ -1,2 +1,2 @@
 # Jogo da velha
- Jogo da velha criaco em C
+ Jogo da velha criado em C utilizando o Codeblocks.
